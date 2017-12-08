@@ -21,7 +21,7 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/15/2017
 ---
 # <a name="what-is-application-insights"></a>什麼是 Application Insights？
-Application Insights 是多個平台上的 Web 開發人員所適用的可延伸「應用程式效能管理」(APM) 服務。 您可以使用它來監視即時 Web 應用程式。 它將會自動偵測效能異常。 其中包括強大的分析工具可協助您診斷問題，並了解使用者實際如何運用您的應用程式。  它是設計來協助您持續改善效能和可用性。 它適用於各種不同平台上的應用程式，包括裝載在內部部署或雲端的 .NET、Node.js 和 J2EE。 它可與您的 DevOps 程序整合，並有各種開發工具的連接點。 透過整合 VVisual Studio App Center 與 HockeyApp，還可以從行動應用程式監視並分析遙測資料。
+Application Insights 是多個平台上的 Web 開發人員所適用的可延伸「應用程式效能管理」(APM) 服務。 您可以使用它來監視即時 Web 應用程式。 它將會自動偵測效能異常。 其中包括強大的分析工具可協助您診斷問題，並了解使用者實際如何運用您的應用程式。  它是設計來協助您持續改善效能和可用性。 它適用於各種不同平台上的應用程式，包括裝載在內部部署或雲端的 .NET、Node.js 和 J2EE。 它可與您的 DevOps 程序整合，並有各種開發工具的連接點。 透過整合 Visual Studio App Center 與 HockeyApp，還可以從行動應用程式監視並分析遙測資料。
 
 ![製作使用者活動統計資料的圖表，或深入特定事件。](./media/app-insights-overview/00-sample.png)
 
